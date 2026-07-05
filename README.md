@@ -21,9 +21,13 @@ Jupyter Notebook / Google Colab
 # Project Files
 
 climate_data.csv → Dataset used for analysis
+
 weather_analysis.ipynb → Jupyter Notebook code
+
 weather_analysis.py → Python script version
+
 report.pdf → Final project report
+
 screenshots/ → Graph images
 
 # Visualizations
